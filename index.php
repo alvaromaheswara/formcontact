@@ -20,7 +20,7 @@
             <div class="container">
                 <div class="signup-content">
                     <form method="POST" action="proses.php" class="signup-form">
-                        <h2 class="form-title">Isi Saran</h2>
+                        <h2 class="form-title">Isi Saran Anda</h2>
                         <div class="form-group">
                             <input type="text" class="form-input" name="nama" id="nama" placeholder="Nama"/>
                         </div>
